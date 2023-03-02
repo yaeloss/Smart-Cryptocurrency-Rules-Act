@@ -91,13 +91,13 @@ defaults:
       layout: page # Set the default layout for pages
 
 # 7. Site settings
-encoding: utf-8 # Make sure the encoding is right
-lang: en-US # Set the site language
-title: "Smart Crypto Policy" # Site name or title, also used in jekyll-seo-tag
+encoding: utf-8 
+lang: en-US 
+title: "Smart Crypto Policy"
 logo: "https://smartcryptopolicy.com/assets/logos/ccc.png/"
 description: "The <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> is an independent, non-partisan consumer advocacy group championing the benefits of freedom of choice, innovation, and abundance in everyday life." # Site description and default description, also used in jekyll-seo-tag
-url: "https://smartcryptopolicy.com/" # Site url, also used in jekyll-seo-tag
-baseurl: "smartcryptopolicy.com"
+url: "https://smartcryptopolicy.com/"
+baseurl: "/"
 repo: "https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act"
 email: "yael@consumerchoicecenter.org"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
