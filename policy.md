@@ -1,3 +1,6 @@
+---
+title: policy
+---
 # Smart Cryptocurrency Rules Act
 
 <b>Summary:</b>
