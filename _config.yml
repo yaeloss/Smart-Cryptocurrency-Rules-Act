@@ -42,7 +42,7 @@ twitter:
   username: consumerchoicec # jekyll-seo-tag > Owners twitter username
 author: consumerchoicec # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Consumer Choice Center # jekyll-seo-tag > real name
+  name: Yael Ossowski # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/consumerchoicec
     - https://www.facebook.com/ConsumerChoiceCenter/
@@ -94,9 +94,9 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Smart Crypto Policy" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/ccc.png" # Site logo, also used in jekyll-seo-tag
-description: "This website run via a GitHub repository, is a project of the <a href="https://consumerchoicecenter.org">Consumer Choice Center</a>, aiming to offer open-sourcee model legislation for consumer-friendly rules on Bitcoin, cryptocurrencies, and decentralized finance." # Site description and default description, also used in jekyll-seo-tag
-url: "https://yaeloss.github.io/Smart-Cryptocurrency-Rules-Act/" # Site url, also used in jekyll-seo-tag
+logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "Model policy for consumer-friendly state rules on Bitcoin, cryptocurrencies, and decentralized finance." # Site description and default description, also used in jekyll-seo-tag
+url: "https://smartcryptorules.com" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act"
 email: "yael@consumerchoicecenter.org"
@@ -125,8 +125,8 @@ navigation_header:
   url: /
 - title: About
   url: /about
-- title: Model Policy
-  url: /policy
+- title: Policy
+  url: /policy/
 - title: Fork this
   url: https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act
 
