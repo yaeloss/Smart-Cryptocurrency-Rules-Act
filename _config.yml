@@ -6,10 +6,8 @@ author: Yaël Ossowski
 description: >
   The purpose of the "Smart Cryptocurrency Rules Act" is to provide state and local legislators with a template of consumer-friendly policy on cryptocurrencies and decentralized finance.
 
-# Build settings
 
 theme: minima
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -22,8 +20,6 @@ minima:
   #
   # date_format: "%b %-d, %Y"
 
-  # Generate social links in footer.
-  #
   # social_links:
   #   - { platform: facebook,       user_url: "https://www.facebook.com/consumerchoicec" }
   #   - { platform: github,         user_url: "https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act" }
@@ -35,8 +31,8 @@ minima:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-# header_pages:
-#   - about.md
+header_pages:
+   - about.md
 
 # Set to `true` to show excerpts on the homepage.
 #
