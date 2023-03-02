@@ -34,6 +34,7 @@ plugins:
 - jekyll-include-cache
 - jemoji
 
+<<<<<<< HEAD
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
@@ -52,6 +53,15 @@ social: # jekyll-seo-tag > social overrides
 # commonmark:
   # options: ["SMART", "FOOTNOTES"]
   # extensions: ["strikethrough", "autolink", "table"]
+=======
+# Site settings
+url: 'https://mydomain.com'
+baseurl: ''
+title: 'Smart Cryptocurrency Policy'
+description: 'This is my new website'
+permalink: pretty
+logo: "https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act/assets/ccc.png"
+>>>>>>> 5353f4e53be942d0301f8fe5883100487d741353
 
 # 4. Jekyll settings
 sass:
