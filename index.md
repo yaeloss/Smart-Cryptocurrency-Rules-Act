@@ -1,10 +1,8 @@
 ---
-title: Smart Cryptocurrency Rules Act
+title: Smart Cryptocurrency Rules
 feature_text: |
   ## Smart Cryptocurrency Rules Act
   Model policy for consumer-friendly state rules on Bitcoin, cryptocurrencies, and decentralized finance.
-
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
 The purpose of the <i>"Smart Cryptocurrency Rules Act"</i> is to provide state and local legislators with a template of consumer-friendly policy on Bitcoin, cryptocurrencies, and decentralized finance. 
