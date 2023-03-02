@@ -94,8 +94,8 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Smart Crypto Policy" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/ccc.png" # Site logo, also used in jekyll-seo-tag
-description: "Model policy for consumer-friendly state rules on Bitcoin, cryptocurrencies, and decentralized finance." # Site description and default description, also used in jekyll-seo-tag
+logo: "https://smartcryptopolicy.com/assets/logos/ccc.png/"
+description: "The <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> is an independent, non-partisan consumer advocacy group championing the benefits of freedom of choice, innovation, and abundance in everyday life." # Site description and default description, also used in jekyll-seo-tag
 url: "https://smartcryptopolicy.com/" # Site url, also used in jekyll-seo-tag
 baseurl: "smartcryptopolicy.com"
 repo: "https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act"
