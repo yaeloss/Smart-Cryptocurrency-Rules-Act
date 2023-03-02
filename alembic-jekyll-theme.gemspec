@@ -1,14 +1,14 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "alembic-jekyll-theme"
-  spec.version       = "4.1.0"
-  spec.authors       = ["David Darnes"]
-  spec.email         = ["me@daviddarnes.com"]
+  spec.name          = " Smart-Cryptocurrency-Rules-Act"
+  spec.version       = "1.0"
+  spec.authors       = ["Yael Ossowski"]
+  spec.email         = ["yael@consumerchoicecenter.org"]
 
-  spec.summary       = %q{A Jekyll boilerplate theme designed to be a starting point for any Jekyll website.}
-  spec.description   = "A Jekyll boilerplate theme designed to be a starting point for any Jekyll website. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately."
-  spec.homepage      = "https://alembic.darn.es"
+  spec.summary       = %q{Model policy for consumer-friendly state rules on Bitcoin, cryptocurrencies, and decentralized finance.}
+  spec.description   = "Model policy for consumer-friendly state rules on Bitcoin, cryptocurrencies, and decentralized finance."
+  spec.homepage      = "https://yaeloss.github.io/Smart-Cryptocurrency-Rules-Act/"
   spec.license       = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
