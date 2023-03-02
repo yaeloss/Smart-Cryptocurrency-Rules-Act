@@ -1,6 +1,7 @@
 ---
-title: Smart Cryptocurrency Rules
+title: Home
   ## Consumer-friendly state rules on Bitcoin, cryptocurrencies, and decentralized finance.
+aside: true
 ---
 The purpose of the <i>"Smart Cryptocurrency Rules Act"</i> is to provide state and local legislators with a template of consumer-friendly policy on Bitcoin, cryptocurrencies, and decentralized finance. 
 
@@ -11,6 +12,3 @@ State lawmakers and their staff are encouraged to take parts, or the whole, of t
 Members of the public are encouraged to suggest their own edits.
 
 <center>{% include button.html text="Fork it" icon="github" link="https://github.com//yaeloss/Smart-Cryptocurrency-Rules-Act" color="#0366d6" %} {% include button.html text="Donate" link="https://consumerchoicecenter.org/donate" color="#f68140" %}</center>
-
-## Links
-
