@@ -7,3 +7,4 @@
 #
 layout: home
 ---
+Smart Cryptocurrency Rules Act
