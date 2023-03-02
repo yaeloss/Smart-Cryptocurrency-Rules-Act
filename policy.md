@@ -1,5 +1,7 @@
 ---
-title: policy
+title: Model Policy
+feature_text: |
+  The Smart Cryptocurrency Rules Act
 ---
 <b>Summary:</b>
 
