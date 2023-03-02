@@ -94,10 +94,10 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-US # Set the site language
 title: "Smart Crypto Policy" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/logos/ccc.png" # Site logo, also used in jekyll-seo-tag
 description: "Model policy for consumer-friendly state rules on Bitcoin, cryptocurrencies, and decentralized finance." # Site description and default description, also used in jekyll-seo-tag
 url: "https://yaeloss.github.io/Smart-Cryptocurrency-Rules-Act/" # Site url, also used in jekyll-seo-tag
-baseurl: ""
+baseurl: "https://yaeloss.github.io/Smart-Cryptocurrency-Rules-Act/"
 repo: "https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act"
 email: "yael@consumerchoicecenter.org"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
