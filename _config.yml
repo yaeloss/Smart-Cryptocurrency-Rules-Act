@@ -123,10 +123,10 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
+- title: About
+  url: /about
 - title: Model Policy
   url: /policy
-- title: Search
-  url: /search/
 - title: Fork this
   url: https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act
 
