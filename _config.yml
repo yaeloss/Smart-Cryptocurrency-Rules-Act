@@ -42,7 +42,7 @@ twitter:
   username: consumerchoicec # jekyll-seo-tag > Owners twitter username
 author: consumerchoicec # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Consumer Choice Center # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/consumerchoicec
     - https://www.facebook.com/ConsumerChoiceCenter/
