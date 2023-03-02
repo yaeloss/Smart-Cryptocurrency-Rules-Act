@@ -23,10 +23,10 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
+title: 'Smart Cryptocurrency Policy'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act/assets/ccc.png"
 
 # Pagination
 paginate: 5
