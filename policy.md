@@ -1,6 +1,6 @@
 ---
 title: Model Policy
-aside:true
+aside: true
 ---
 <b>Summary:</b>
 
