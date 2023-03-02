@@ -97,7 +97,7 @@ title: "Smart Crypto Policy" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/ccc.png" # Site logo, also used in jekyll-seo-tag
 description: "Model policy for consumer-friendly state rules on Bitcoin, cryptocurrencies, and decentralized finance." # Site description and default description, also used in jekyll-seo-tag
 url: "https://yaeloss.github.io/Smart-Cryptocurrency-Rules-Act/" # Site url, also used in jekyll-seo-tag
-baseurl: "https://yaeloss.github.io/Smart-Cryptocurrency-Rules-Act/"
+baseurl: "/Smart-Cryptocurrency-Rules-Act/"
 repo: "https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act"
 email: "yael@consumerchoicecenter.org"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
@@ -124,7 +124,7 @@ navigation_header:
 - title: Home
   url: /
 - title: Model Policy
-  url: /smartrules.mdown
+  url: https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act/policy
 - title: Fork this
   url: https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act
 
