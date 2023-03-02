@@ -1,4 +1,4 @@
-title: Smart Cryptocurrency Policy
+title: Smart Crypto Policy
 description: Model policy for Bitcoin, cryptocurrencies, and decentralized finance.
 baseurl: "/Smart-Cryptocurrency-Rules-Act"
 url: "https://yaeloss.github.io/Smart-Cryptocurrency-Rules-Act/"
@@ -31,8 +31,8 @@ exclude:
  # theme test code
    - fixtures/
 
-# Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+Set a path/url to a logo that will be displayed instead of the title
+logo: "/assets/images/ccc.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
