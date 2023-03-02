@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Yael Ossowski"]
   spec.email         = ["yael@consumerchoicecenter.org"]
 
-  spec.summary       = %q{Model policy for consumer-friendly state rules on Bitcoin, cryptocurrencies, and decentralized finance.}
+  spec.summary       = %q{The <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> is an independent, non-partisan consumer advocacy group championing the benefits of freedom of choice, innovation, and abundance in everyday life.}
   spec.description   = "The <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> is an independent, non-partisan consumer advocacy group championing the benefits of freedom of choice, innovation, and abundance in everyday life."
   spec.homepage      = "https://yaeloss.github.io/Smart-Cryptocurrency-Rules-Act/"
   spec.license       = "MIT"
