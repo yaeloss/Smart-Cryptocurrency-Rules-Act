@@ -117,16 +117,14 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
   144: '/assets/logos/logo@144px.png'
   180: '/assets/logos/logo@180px.png'
   512: '/assets/logos/logo@512px.png'
-  1024: '/assets/logos/logo@1024px.png'
+  1024: '/assets/logos/ccc.png'
 
 # 9. Site navigation
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Search
-  url: /search/
+- title: Model Policy
+  url: /smartrules.mdown
 - title: Fork this
   url: https://github.com/yaeloss/Smart-Cryptocurrency-Rules-Act
 
