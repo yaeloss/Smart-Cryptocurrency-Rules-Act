@@ -1,13 +1,12 @@
 ---
 title: Model Policy
-feature_text: |
-  The Smart Cryptocurrency Rules Act
+aside:true
 ---
 <b>Summary:</b>
 
 As federal rules have not yet been created to cover cryptocurrencies and digital assets such as Bitcoin and Ethereum, and considering that states can claim some authority over digital assets or registered companies that deal in digital assets, this establishes preliminary definitions and rules to promote entrepreneurship and provide legal certainty to benefit residents and investors who use cryptocurrency. 
 
-<b>Model Policy:</b>
+<b>Text</b>
 
 1. Definitions: For the purposes of this chapter, the words defined in this section have the meaning given.
 
