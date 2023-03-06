@@ -3,6 +3,8 @@
             width:400px;
             height:200px;
             border: solid 1px #CCC"/>    
+Website: <a href="https://smartcryptopolicy.com">smartcryptopolicy.com</a>    
+	    
 <b>INTRODUCTION</b>
 
 The <a href="https://consumerchoicecenter.org">Consumer Choice Center</a> is an independent, non-partisan consumer advocacy group championing the benefits of freedom of choice, innovation, and abundance in everyday life. 
