@@ -1,3 +1,16 @@
+<head>
+  
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QLLY8374Y6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QLLY8374Y6');
+</script>
+
+</head>
 ---
 title: Smart Cryptocurrency Rules
   ## Consumer-friendly state rules on Bitcoin, cryptocurrencies, and decentralized finance.
